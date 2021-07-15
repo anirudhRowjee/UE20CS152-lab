@@ -1,0 +1,19 @@
+nidavellir :: UE20CS152/week5/t3 » ./main
+Date 1 > 
+Enter the Date as DD/MM/YYYY >> 1/1/2000
+Date 2 > 
+Enter the Date as DD/MM/YYYY >> 2/1/2000
+Date 2 Occurred After Date 1.
+nidavellir :: UE20CS152/week5/t3 » ./main
+Date 1 > 
+Enter the Date as DD/MM/YYYY >> 10/12/2002
+Date 2 > 
+Enter the Date as DD/MM/YYYY >> 2/3/2002 
+Date 2 Occurred Before Date 1.
+nidavellir :: UE20CS152/week5/t3 » ./main
+Date 1 > 
+Enter the Date as DD/MM/YYYY >> 5/8/2021 
+Date 2 > 
+Enter the Date as DD/MM/YYYY >> 5/8/2021
+Date 2 and Date 1 are the same.
+nidavellir :: UE20CS152/week5/t3 » 

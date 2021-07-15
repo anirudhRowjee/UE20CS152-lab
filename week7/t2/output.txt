@@ -1,0 +1,18 @@
+nidavellir :: UE20CS152/week7/t2 » cat test1.txt
+cat: test1.txt: No such file or directory
+nidavellir :: UE20CS152/week7/t2 » ./main                                                                                                                                                                                                 1 ↵
+Enter Filename to write to >> test1.txt
+Enter Number of Lines to write >> 3
+Reading lines...
+Line 1 > 
+Hello, world! This
+Line 2 > 
+is Anirudh Rowjee and
+Line 3 > 
+this is my program.
+3 Lines succesfully written!
+nidavellir :: UE20CS152/week7/t2 » cat test1.txt 
+Hello, world! This
+is Anirudh Rowjee and
+this is my program.
+nidavellir :: UE20CS152/week7/t2 » 

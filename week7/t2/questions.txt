@@ -1,0 +1,1 @@
+Write a C program to write multiple lines in a text file.

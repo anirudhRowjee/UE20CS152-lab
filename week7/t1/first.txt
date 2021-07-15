@@ -1,0 +1,4 @@
+Hi! This is a test to see if this program works with multiple
+lines and multiple files.
+
+This is the first file.

@@ -1,0 +1,22 @@
+nidavellir :: UE20CS152/week7/t3 » ./main
+Enter the number of items in the list >> 6
+Enter the number at index 0 >> -23
+Enter the number at index 1 >> 234
+Enter the number at index 2 >> 574
+Enter the number at index 3 >> 23434
+Enter the number at index 4 >> 325581
+Enter the number at index 5 >> -23423
+The sorted list is >> 
+-23423  -23     234     574     23434   325581
+nidavellir :: UE20CS152/week7/t3 » ./main
+Enter the number of items in the list >> 7
+Enter the number at index 0 >> -234
+Enter the number at index 1 >> 237423
+Enter the number at index 2 >> 983845
+Enter the number at index 3 >> 234   
+Enter the number at index 4 >> 2394
+Enter the number at index 5 >> 983475
+Enter the number at index 6 >> -234
+The sorted list is >> 
+-234    -234    234     2394    237423  983475  983845
+nidavellir :: UE20CS152/week7/t3 » 

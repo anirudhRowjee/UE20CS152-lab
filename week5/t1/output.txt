@@ -1,0 +1,14 @@
+nidavellir :: UE20CS152/week5/t1 » ./main
+Enter the depth of the Pascal Triangle > 4
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+nidavellir :: UE20CS152/week5/t1 » ./main
+Enter the depth of the Pascal Triangle > 5
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
+nidavellir :: UE20CS152/week5/t1 » 

@@ -1,0 +1,18 @@
+nidavellir :: UE20CS152/week4/pp1 » ./main
+Enter the string to Analyze > othello
+Character e appears 1 times
+Character h appears 1 times
+Character l appears 2 times
+Character o appears 2 times
+Character t appears 1 times
+nidavellir :: UE20CS152/week4/pp1 » ./main
+Enter the string to Analyze > banana 
+Character a appears 3 times
+Character b appears 1 times
+Character n appears 2 times
+nidavellir :: UE20CS152/week4/pp1 » ./main
+Enter the string to Analyze > malayalam
+Character a appears 4 times
+Character l appears 2 times
+Character m appears 2 times
+Character y appears 1 times

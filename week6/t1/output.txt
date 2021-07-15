@@ -1,0 +1,31 @@
+nidavellir :: UE20CS152/week6/t1 » ./main
+Enter the number of players >> 5
+Player 1 >> 
+Player Name >> Sachin
+Player Team Name >> India
+Player Batting Average >> 98
+Player 2 >> 
+Player Name >> Rahul
+Player Team Name >> India
+Player Batting Average >> 45
+Player 3 >> 
+Player Name >> Jonty
+Player Team Name >> Australia
+Player Batting Average >> 89
+Player 4 >> 
+Player Name >> Imran
+Player Team Name >> Pakistan
+Player Batting Average >> 75
+Player 5 >> 
+Player Name >> Shen
+Player Team Name >> Australia
+Player Batting Average >> 29
+
+----- PLAYERS -----
+Jonty | Australia | 89.000000
+Shen | Australia | 29.000000
+Sachin | India | 98.000000
+Rahul | India | 45.000000
+Imran | Pakistan | 75.000000
+-------------------
+nidavellir :: UE20CS152/week6/t1 » 

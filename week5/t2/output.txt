@@ -1,0 +1,40 @@
+nidavellir :: UE20CS152/week5/t2 » ./main
+Enter the Order of the Matrix > 2
+Enter the Element at (1, 1) > 1
+Enter the Element at (1, 2) > 2
+Enter the Element at (2, 1) > 3
+Enter the Element at (2, 2) > 4
+
+The Matrix => 
+1 2 
+3 4 
+
+The Transpose => 
+1 3 
+2 4 
+
+The Matrix is Asymmetric
+nidavellir :: UE20CS152/week5/t2 » ./main
+Enter the Order of the Matrix > 3
+Enter the Element at (1, 1) > 1
+Enter the Element at (1, 2) > 0
+Enter the Element at (1, 3) > 0
+Enter the Element at (2, 1) > 0
+Enter the Element at (2, 2) > 1
+Enter the Element at (2, 3) > 0
+Enter the Element at (3, 1) > 0
+Enter the Element at (3, 2) > 0
+Enter the Element at (3, 3) > 1
+
+The Matrix => 
+1 0 0 
+0 1 0 
+0 0 1 
+
+The Transpose => 
+1 0 0 
+0 1 0 
+0 0 1 
+
+The Matrix is Symmetric
+nidavellir :: UE20CS152/week5/t2 »    

@@ -1,0 +1,6 @@
+nidavellir :: UE20CS152/week4/t3 » ./main
+Enter the string > pani puri
+The string without any repeated characters > pani ur
+nidavellir :: UE20CS152/week4/t3 » ./main
+Enter the string > interesting
+The string without any repeated characters > intersg

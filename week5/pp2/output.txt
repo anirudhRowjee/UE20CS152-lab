@@ -1,0 +1,19 @@
+nidavellir :: UE20CS152/week5/pp2 » ./main
+The First Measure 
+Enter the Measure as '<feet> <inch>' >> 1 2
+The Second Measure 
+Enter the Measure as '<feet> <inch>' >> 3 4
+The Final Distance is > 4.000000 Feet and 6.000000 Inches.
+nidavellir :: UE20CS152/week5/pp2 » ./main
+The First Measure 
+Enter the Measure as '<feet> <inch>' >> 5 5
+The Second Measure 
+Enter the Measure as '<feet> <inch>' >> 5 7
+The Final Distance is > 11.000000 Feet and 0.000000 Inches.
+nidavellir :: UE20CS152/week5/pp2 » ./main
+The First Measure 
+Enter the Measure as '<feet> <inch>' >> 4 8
+The Second Measure 
+Enter the Measure as '<feet> <inch>' >> 3 6
+The Final Distance is > 8.000000 Feet and 2.000000 Inches.
+nidavellir :: UE20CS152/week5/pp2 » 

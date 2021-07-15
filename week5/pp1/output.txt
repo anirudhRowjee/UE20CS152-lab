@@ -1,0 +1,13 @@
+nidavellir :: UE20CS152/week5/pp1 » ./main
+enter the limit >> 3
+1 1 0 
+1 0 -1 
+0 -1 -1 
+nidavellir :: UE20CS152/week5/pp1 » ./main
+enter the limit >> 5
+1 1 1 1 0 
+1 1 1 0 -1 
+1 1 0 -1 -1 
+1 0 -1 -1 -1 
+0 -1 -1 -1 -1 
+nidavellir :: UE20CS152/week5/pp1 » 

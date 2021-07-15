@@ -1,0 +1,9 @@
+Write a program to generate Pascal's Triangle using two-dimensional arrays.
+Eg
+
+```
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+```

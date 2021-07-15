@@ -1,0 +1,11 @@
+ Define a structure called cricket that will describe the following information: 
+ * player name 
+ * team name 
+ * batting average 
+
+ Using cricket, declare an array player with 5 elements and write a program to read the information about all the 5 players and print a team-wise list containing names of player with their batting average.
+
+ Write functions for the following: 
+ 1. Read the information of all the 5 players 
+ 2. Sorting the players by their team name
+ 3. Displaying team-wise list containing names of player with their batting average 

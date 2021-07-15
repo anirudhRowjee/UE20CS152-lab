@@ -1,0 +1,4 @@
+Write a C program to fill a 5x5 Matrix as follows:
+1. Populate the Upper-Left Diagonal with -1
+2. Populate the Leading Diagaonal with Zeroes
+3. Populate the Bottom-Right Diagonal with 1

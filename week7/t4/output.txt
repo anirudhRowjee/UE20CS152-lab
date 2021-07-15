@@ -1,0 +1,35 @@
+c%                                                                                                                                                                                                                                            
+nidavellir :: UE20CS152/week7/t4 » cat test.csv 
+anirudh,20
+shreyas,11
+ramdev,30
+sarath,50
+somesh,22
+rahul,41
+ajay,52
+nidavellir :: UE20CS152/week7/t4 » ./main
+
+** Student Manager **
+Successfully parsed into array
+Enter 1 to sort by Name, enter 2 to sort by Roll Number, 0 to exit>> 1
+----- STUDENT DETAILS -----
+   52 |       ajay
+   20 |    anirudh
+   41 |      rahul
+   30 |     ramdev
+   50 |     sarath
+   11 |    shreyas
+   22 |     somesh
+Enter 1 to sort by Name, enter 2 to sort by Roll Number, 0 to exit>> 2
+----- STUDENT DETAILS -----
+   11 |    shreyas
+   20 |    anirudh
+   22 |     somesh
+   30 |     ramdev
+   41 |      rahul
+   50 |     sarath
+   52 |       ajay
+Enter 1 to sort by Name, enter 2 to sort by Roll Number, 0 to exit>> 0
+Thank you for using Student Manager!
+Successfully cleaned up!
+nidavellir :: UE20CS152/week7/t4 » 

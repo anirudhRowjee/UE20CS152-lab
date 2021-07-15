@@ -1,0 +1,12 @@
+nidavellir :: UE20CS152/week4/t4 » ./main
+Enter the first string > try
+Enter the second string > hard
+Enter the number of repeats > 3
+The new length is 15
+The repeated string is > tryhardhardhard
+nidavellir :: UE20CS152/week4/t4 » ./main
+Enter the first string > nice
+Enter the second string > day
+Enter the number of repeats > 5
+The new length is 19
+The repeated string is > nicedaydaydaydayday

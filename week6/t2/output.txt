@@ -1,0 +1,89 @@
+nidavellir :: UE20CS152/week6/t2 » ./main
+Welcome To The Priority Queue Manager!
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+1
+The List is Empty!
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+2
+Enter the Data Value >> 10
+Enter the Data Priority >> 15
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+2
+Enter the Data Value >> 12
+Enter the Data Priority >> 17
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+2
+Enter the Data Value >> 11
+Enter the Data Priority >> 16
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+1
+
+Priority Queue >> 
+D: 12 | P: 17
+D: 11 | P: 16
+D: 10 | P: 15
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+2
+Enter the Data Value >> 19
+Enter the Data Priority >> 14
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+2
+Enter the Data Value >> 77
+Enter the Data Priority >> 10
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+2
+Enter the Data Value >> 56
+Enter the Data Priority >> 13
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+1
+
+Priority Queue >> 
+D: 12 | P: 17
+D: 11 | P: 16
+D: 10 | P: 15
+D: 19 | P: 14
+D: 56 | P: 13
+D: 77 | P: 10
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Dequeueing (17, 12)
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Dequeueing (16, 11)
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Dequeueing (15, 10)
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Dequeueing (14, 19)
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Dequeueing (13, 56)
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Dequeueing (10, 77)
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+3
+Cannot Dequeue An Empty Priority Queue!
+
+Pick 1 to display, 2 to enqueue, 3 to dequeue, and 4 to exit.
+4
+The PQueue is Empty!
+Thank you for using the Linked List Manager!
+nidavellir :: UE20CS152/week6/t2 » 

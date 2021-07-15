@@ -1,0 +1,5 @@
+Write a program to copy the contents of one file to another using command-line arguments.
+Usage:
+```
+$ ./main <filename1> <filename2>
+```

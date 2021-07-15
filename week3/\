@@ -1,0 +1,17 @@
+#include "utils.h"
+#include <stdio.h>
+
+void ReverseTraverseByIndex(int* myArray, int element_count)
+{
+    // function to traverse an array by index
+    for (int i = 0; i < element_count; i++)
+    {
+        printf("%d ", myArray[element_count - 1 - i]);
+    }
+    printf("\n");
+}
+
+void ReverseTraverseByPointer(int* myArray, int element_count)
+{
+    printf("test\n");
+}

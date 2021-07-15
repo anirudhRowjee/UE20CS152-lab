@@ -1,0 +1,28 @@
+nidavellir :: UE20CS152/week8/t1 » ./main
+Enter the length of the array >> 5
+Enter the number in position 1 >> 10
+Enter the number in position 2 >> 32
+Enter the number in position 3 >> 13
+Enter the number in position 4 >> 43
+Enter the number in position 5 >> 22
+
+Enter the Number to look for >> 13
+Checking if number is present and even.. 
+Found at 1.
+Checking if number is present an less than 22.. 
+Found at 1 satisfying constraint.
+nidavellir :: UE20CS152/week8/t1 » ./main
+Enter the length of the array >> 6
+Enter the number in position 1 >> 5
+Enter the number in position 2 >> 10
+Enter the number in position 3 >> 32
+Enter the number in position 4 >> 13
+Enter the number in position 5 >> 43
+Enter the number in position 6 >> 21 
+
+Enter the Number to look for >> 21
+Checking if number is present and even.. 
+Found at 3.
+Checking if number is present an less than 22.. 
+Found at 3 satisfying constraint.
+nidavellir :: UE20CS152/week8/t1 » 

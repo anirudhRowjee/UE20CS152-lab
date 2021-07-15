@@ -1,0 +1,27 @@
+nidavellir :: UE20CS152/week7/t1 » cat first.txt
+Hi! This is a test to see if this program works with multiple
+lines and multiple files.
+
+This is the first file.
+nidavellir :: UE20CS152/week7/t1 » cat second.txt
+Hello! This is a test to see if this program works with multiple
+lines and multiple files.
+
+This is the second file.
+nidavellir :: UE20CS152/week7/t1 » cat target.txt
+cat: target.txt: No such file or directory
+nidavellir :: UE20CS152/week7/t1 » ./main                                                                                                                                                                                                 1 ↵
+Enter the First Filename >> first.txt
+Enter the Second Filename >> second.txt
+Enter the Target Filename >> target.txt
+Merged Successfully!
+nidavellir :: UE20CS152/week7/t1 » cat target.txt 
+Hi! This is a test to see if this program works with multiple
+lines and multiple files.
+
+This is the first file.
+Hello! This is a test to see if this program works with multiple
+lines and multiple files.
+
+This is the second file.
+nidavellir :: UE20CS152/week7/t1 »  

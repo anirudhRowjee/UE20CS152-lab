@@ -1,0 +1,15 @@
+nidavellir :: UE20CS152/week5/t4 » ./main
+Enter the Details of Complex Number 1.
+Enter the Complex Number as 'A + Bi' >> 3 + 4i
+Enter the Details of Complex Number 2.
+Enter the Complex Number as 'A + Bi' >> 1 + 2i
+the sum is > 4.000000 + 6.000000i
+the difference is > 2.000000 + 2.000000i
+nidavellir :: UE20CS152/week5/t4 » ./main
+Enter the Details of Complex Number 1.
+Enter the Complex Number as 'A + Bi' >> 10 + 10i
+Enter the Details of Complex Number 2.
+Enter the Complex Number as 'A + Bi' >> 20 + 3i
+the sum is > 30.000000 + 13.000000i
+the difference is > -10.000000 + 7.000000i
+nidavellir :: UE20CS152/week5/t4 » 

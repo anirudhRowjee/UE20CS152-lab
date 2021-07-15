@@ -1,0 +1,12 @@
+nidavellir :: UE20CS152/week4/pp2 » ./main
+Enter the first string > hello
+Enter the second string > lo
+The second string is present at the end of the first
+nidavellir :: UE20CS152/week4/pp2 » ./main
+Enter the first string > worldworldworld
+Enter the second string > world
+The second string is present at the end of the first
+nidavellir :: UE20CS152/week4/pp2 » ./main
+Enter the first string > absence
+Enter the second string > enc
+The second string is not present at the end of the first

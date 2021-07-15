@@ -1,0 +1,3 @@
+Implement Binary Search on an array using Callbacks and check for the following constraints:
+1. Search for a number that's even
+1. Search for a number that's less than 22

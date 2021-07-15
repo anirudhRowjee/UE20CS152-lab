@@ -1,0 +1,17 @@
+./%                                                                                                                                                                                                                                           
+nidavellir :: UE20CS152/week8/t3 » ./main
+Enter the Current date (DD MMM)(first 3 letters) >> 27 MAR
+Next Date >> 28 MAR
+nidavellir :: UE20CS152/week8/t3 » ./main
+Enter the Current date (DD MMM)(first 3 letters) >> 31 DEC
+Next Date >> 1 JAN
+nidavellir :: UE20CS152/week8/t3 » ./main
+Enter the Current date (DD MMM)(first 3 letters) >> 08 MAY
+Next Date >> 9 MAY
+nidavellir :: UE20CS152/week8/t3 » ./main
+Enter the Current date (DD MMM)(first 3 letters) >> 27 FEB
+Next Date >> 28 FEB
+nidavellir :: UE20CS152/week8/t3 » ./main
+Enter the Current date (DD MMM)(first 3 letters) >> 01 JAN
+Next Date >> 2 JAN
+nidavellir :: UE20CS152/week8/t3 » 

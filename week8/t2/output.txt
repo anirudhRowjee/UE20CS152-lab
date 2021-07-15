@@ -1,0 +1,16 @@
+nidavellir :: UE20CS152/week8/t2 » cat input.txt 
+Hello, world! This is Anirudh Rowjee in Sample Text.
+
+This is the second line.
+nidavellir :: UE20CS152/week8/t2 » cat sample_out.txt
+cat: sample_out.txt: No such file or directory
+nidavellir :: UE20CS152/week8/t2 » ./main input.txt                                                                                                                                                                                       1 ↵
+Invalid number of arguments! Only 2 allowed.
+nidavellir :: UE20CS152/week8/t2 » ./main input.txt sample_out.txt
+Copying from input.txt to sample_out.txt
+Succesfully copied.
+nidavellir :: UE20CS152/week8/t2 » cat sample_out.txt 
+Hello, world! This is Anirudh Rowjee in Sample Text.
+
+This is the second line.
+nidavellir :: UE20CS152/week8/t2 » 

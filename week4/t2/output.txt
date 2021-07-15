@@ -1,0 +1,8 @@
+nidavellir :: UE20CS152/week4/t2 » ./main
+Enter the string > hi this is anirudh
+Enter the Characters to look for and replace > i @
+The substituted string is > h@ th@s @s an@rudh
+nidavellir :: UE20CS152/week4/t2 » ./main
+Enter the string >    
+Enter the Characters to look for and replace >  $
+The substituted string is > $$$
